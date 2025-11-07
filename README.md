@@ -1,5 +1,5 @@
 # nym-interns-github-desktop-training
-
+Nazir Muhammad Abdullahi
 
 # Clone a teammate’s repo using GitHub Desktop
 # Create a branch (feature-add-name)
